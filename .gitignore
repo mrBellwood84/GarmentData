@@ -1,0 +1,5 @@
+/.env
+/Source
+/Result
+/modules/__pycache__
+config.json
